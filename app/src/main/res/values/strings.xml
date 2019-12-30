@@ -1,11 +1,21 @@
 <resources>
+    <!-- ******* Application ******* -->
     <string name="app_name">Geekollection</string>
+
+    <!-- ******* Right drawer navigation ******* -->
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="nav_header_title">Geekollection</string>
     <string name="nav_header_subtitle">My collection manager</string>
     <string name="nav_header_desc">Navigation header</string>
+
+    <!-- ******* Top navigation bar ******* -->
     <string name="action_settings">Settings</string>
 
+    <!-- ******* Menu content ******* -->
     <string name="menu_home">Home</string>
+
+    <!-- ******* Views content ******* -->
+    <!-- Home view -->
+    <string name="home_fragment_test_image_view">YOLOOO</string>
 </resources>
